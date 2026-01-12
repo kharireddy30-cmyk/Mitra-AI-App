@@ -1,3 +1,12 @@
 streamlit
 google-genai
+
 python-dotenv
+streamlit
+google-generativeai
+gTTS
+streamlit-mic-recorder
+supabase
+requests
+openai
+groq
